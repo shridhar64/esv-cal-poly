@@ -19,8 +19,7 @@ Make an empty folder where you want to checkout the repository, referred to as "
 
 Right-click on the ESV Repository folder and select “SVN Checkout…”
 
-Paste the repository URL given below:
-http://esv-cal-poly.googlecode.com/svn/trunk/
+Paste the repository URL: http://esv-cal-poly.googlecode.com/svn/trunk/
 
 Leave the other options at their defaults: Fully recursive checked, HEAD revision selected
 
