@@ -4,7 +4,7 @@
 =The Subversion Repository=
 Subversion (SVN) is a method which allows us to keep current/previous versions of documents and source code in a single, centralized, online location. This server space is available to all group members on any computer which is running a subversion client. In order to access the files, a subversion client must be installed on a 
 
-=Instructions for Installing Tortoise SVN=
+==Instructions for Installing Tortoise SVN==
 -Go to: http://tortoisesvn.net/downloads.html
 
 Download the link "Tortoise-SVN" (either 32 or 64 bit depending on your system)
@@ -13,7 +13,7 @@ Run the installer and follow the instructions
 
 Setup should complete and ask to restart
 
-=Instructions for Checking out Repository on your Computer=
+==Instructions for Checking out Repository on your Computer==
 
 Make an empty folder where you want to checkout the repository, referred to as "ESV Repository" in these instructions.
 
@@ -26,9 +26,7 @@ Leave the other options at their defaults: Fully recursive checked, HEAD revisio
 
 Click OK and wait for the files to download
 
-=Instructions for Commiting files to the Subversion Client=
-
-=Editing and Committing SVN Files=
+==Editing and Committing files to the Subversion Client==
 
 WARNING: Copying and deleting files that are in the repository should ONLY be done using the right-click Tortoise SVN commands. Doing otherwise will create reversion errors, duplicate files, and a potential loss of work.
 
@@ -42,4 +40,4 @@ To test that you have successfully committed your files, create a new test folde
 
 
 
-==Instructions taken from the Cal Poly Robotics Club website==
+===Instructions taken from the Cal Poly Robotics Club website===
