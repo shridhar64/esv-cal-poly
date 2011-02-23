@@ -1,13 +1,12 @@
 #Checkout Code from the Repository
 
-=Checkout Code from the Repository=
-
-For actual development, you will want to checkout the “trunk” folder of the repository. A checkout downloads all of the latest file versions under a given repository path to an equivalent folder structure on your computer.
+=The Subversion Repository=
+Subversion (SVN) is a method which allows us to keep current/previous versions of documents and source code in a single, centralized, online location. This server space is available to all group members on any computer which is running a subversion client. In order to access the files, a subversion client must be installed on a 
 
 =Instructions for Installing Tortoise SVN=
 -Go to: http://tortoisesvn.net/downloads.html
 
-Download the link "Tortoise-SVN" (either 23 or 64 bit depending on your system)
+Download the link "Tortoise-SVN" (either 32 or 64 bit depending on your system)
 
 Run the installer and follow the instructions
 
@@ -15,11 +14,15 @@ Setup should complete and ask to restart
 
 =Instructions for Checking out Repository on your Computer=
 
--Make an empty folder where you want to checkout the repository.
--Right-click on the new folder and select “SVN Checkout…”
--Paste the repository URL given below:
+Make an empty folder where you want to checkout the repository.
+
+Right-click on the new folder and select “SVN Checkout…”
+
+Paste the repository URL given below:
 http://esv-cal-poly.googlecode.com/svn/trunk/
+
 Leave the other options at their defaults: Fully recursive checked, HEAD revision selected
+
 Click OK and wait for the files to download
 
 =Instructions for Commiting files to the Subversion Client=
