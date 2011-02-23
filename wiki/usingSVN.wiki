@@ -5,17 +5,17 @@
 Subversion (SVN) is a method which allows us to keep current/previous versions of documents and source code in a single, centralized, online location. This server space is available to all group members on any computer which is running a subversion client. In order to access the files, a subversion client must be installed - I use Tortoise SVN. You will also need a username and password to access the repository. Your username is the email associated with this repository (mine is nikolanoxon@gmail.com for example). Your password can be found by following this link: https://code.google.com/hosting/settings
 
 
-==Instructions for Installing Tortoise SVN==
+==Installing Tortoise SVN==
 Go to: http://tortoisesvn.net/downloads.html
 
 Download the link "Tortoise-SVN" (either 32 or 64 bit depending on your system)
 
 Run the installer and follow the instructions
 
-Setup should complete and ask to restart
+Setup should complete and ask to restart.
 
-
-==Instructions for Checking out Repository on your Computer==
+----
+==Checking out the Subversion Repository on your Computer==
 
 Make an empty folder where you want to checkout the repository, referred to as "ESV Repository" in these instructions.
 
