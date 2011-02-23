@@ -14,6 +14,7 @@ Run the installer and follow the instructions
 
 Setup should complete and ask to restart
 
+
 ==Instructions for Checking out Repository on your Computer==
 
 Make an empty folder where you want to checkout the repository, referred to as "ESV Repository" in these instructions.
@@ -22,9 +23,10 @@ Right-click on the ESV Repository folder and select “SVN Checkout…”
 
 Paste the repository URL: http://esv-cal-poly.googlecode.com/svn/trunk/esv-cal-poly
 
-Leave the other options at their defaults: Fully recursive checked, HEAD revision selected
+Leave the other options at their defaults: Fully recursive checked, HEAD revision selected.
 
-Click OK and wait for the files to download
+Click OK and wait for the files to download. The client will ask you for a username ans password. If you followed the "Installing Tortoise SVN" instructions, you should have these.
+
 
 ==Editing and Committing files to the Subversion Client==
 
@@ -40,4 +42,4 @@ To test that you have successfully committed your files, create a new test folde
 
 
 
-===Instructions taken from the Cal Poly Robotics Club website===
+====Instructions taken from the Cal Poly Robotics Club website====
