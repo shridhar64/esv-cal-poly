@@ -32,7 +32,7 @@ Click OK and wait for the files to download
 
 WARNING: Copying and deleting files that are in the repository should ONLY be done using the right-click Tortoise SVN commands. Doing otherwise will create reversion errors, duplicate files, and a potential loss of work.
 
-Files created and/or edited since your last checkout MUST be committed. Otherwise they will not be uploaded to the repository. Right click on the ESV Repository folder and click "Checkout"
+Files created and/or edited since your last checkout MUST be committed. Otherwise they will not be uploaded to the repository. Right click on the ESV Repository folder and select “SVN Checkout…”
 
 Select all edited and new files which you want saved to the repository.
 
@@ -42,4 +42,4 @@ To test that you have successfully committed your files, create a new test folde
 
 
 
-//Instructions taken from the Cal Poly Robotics Club website//
+==Instructions taken from the Cal Poly Robotics Club website==
