@@ -2,7 +2,8 @@
 #Checkout Code from the Repository
 
 =The Subversion Repository=
-Subversion (SVN) is a method which allows us to keep current/previous versions of documents and source code in a single, centralized, online location. This server space is available to all group members on any computer which is running a subversion client. In order to access the files, a subversion client must be installed on a 
+Subversion (SVN) is a method which allows us to keep current/previous versions of documents and source code in a single, centralized, online location. This server space is available to all group members on any computer which is running a subversion client. In order to access the files, a subversion client must be installed - I use Tortoise SVN. You will also need a username and password to access the repository. Your username is the email associated with this repository (mine is nikolanoxon@gmail.com for example). Your password can be found by following this link: https://code.google.com/hosting/settings
+
 
 ==Instructions for Installing Tortoise SVN==
 Go to: http://tortoisesvn.net/downloads.html
@@ -19,7 +20,7 @@ Make an empty folder where you want to checkout the repository, referred to as "
 
 Right-click on the ESV Repository folder and select “SVN Checkout…”
 
-Paste the repository URL: http://esv-cal-poly.googlecode.com/svn/trunk/
+Paste the repository URL: http://esv-cal-poly.googlecode.com/svn/trunk/esv-cal-poly
 
 Leave the other options at their defaults: Fully recursive checked, HEAD revision selected
 
