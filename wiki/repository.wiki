@@ -6,9 +6,12 @@ For actual development, you will want to checkout the “trunk” folder of the 
 
 =Instructions for Installing Tortoise SVN=
 -Go to: http://tortoisesvn.net/downloads.html
--Download the link "Tortoise-SVN" (either 23 or 64 bit depending on your system)
--Run the installer and follow the instructions
--Setup should complete and ask to restart
+
+Download the link "Tortoise-SVN" (either 23 or 64 bit depending on your system)
+
+Run the installer and follow the instructions
+
+Setup should complete and ask to restart
 
 =Instructions for Checking out Repository on your Computer=
 
