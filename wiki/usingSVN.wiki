@@ -5,7 +5,7 @@
 Subversion (SVN) is a method which allows us to keep current/previous versions of documents and source code in a single, centralized, online location. This server space is available to all group members on any computer which is running a subversion client. In order to access the files, a subversion client must be installed on a 
 
 ==Instructions for Installing Tortoise SVN==
--Go to: http://tortoisesvn.net/downloads.html
+Go to: http://tortoisesvn.net/downloads.html
 
 Download the link "Tortoise-SVN" (either 32 or 64 bit depending on your system)
 
