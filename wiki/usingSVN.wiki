@@ -36,7 +36,7 @@ http://esv-cal-poly.googlecode.com/svn/trunk/esv-cal-poly
 
 use
 
-https://esv-calpoly.googlecode.com/svn/trunk/esv-cal-poly
+https://esv-cal-poly.googlecode.com/svn/trunk/esv-cal-poly
 
 If you use RapidSVN and do not use a secure URL, your svn client will give a 403 or 405 connection/activity error upon committing.
 
