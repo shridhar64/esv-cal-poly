@@ -34,7 +34,7 @@ Note: With RapidSVN and TortoiseSVN you must use a secure URL to be able to comm
 
 Leave the other options at their defaults: Fully recursive checked, HEAD revision selected.
 
-Click OK and wait for the files to download. The client will ask you for a username ans password. If you followed the "Installing Tortoise SVN" instructions, you should have these.
+Click OK and wait for the files to download. The client will ask you for a username and password. If you followed the "Installing Tortoise SVN" instructions, you should have these.
 
 ----
 ==Editing and Committing files to the Subversion Client==
