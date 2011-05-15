@@ -30,15 +30,11 @@ Right-click on the ESV Repository folder and select “SVN Checkout…”
 
 Paste the repository URL: http://esv-cal-poly.googlecode.com/svn/trunk/esv-cal-poly
 
-Note: With RapidSVN (tested) and possibly TortoiseSVN (untested) you must use a secure URL to be able to commit to to the repository. Instead of:
-
-http://esv-cal-poly.googlecode.com/svn/trunk/esv-cal-poly
-
-use
+Note: With RapidSVN and TortoiseSVN you must use a secure URL to be able to commit to to the repository. Use:
 
 https://esv-cal-poly.googlecode.com/svn/trunk/esv-cal-poly
 
-If you use RapidSVN and do not use a secure URL, your svn client will give a 403 or 405 connection/activity error upon committing.
+If you do not use a secure URL, your svn client will give a 403 or 405 connection/activity error upon committing.
 
 Leave the other options at their defaults: Fully recursive checked, HEAD revision selected.
 
